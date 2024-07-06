@@ -1,0 +1,14 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "A simple BMI calculator using Express.js",
+  "main": "bmicalculator.js",
+  "scripts": {
+      "start": "node bmicalculator.js"
+  },
+  "dependencies": {
+      "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
